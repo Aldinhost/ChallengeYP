@@ -1,0 +1,14 @@
+main{
+    padding: 2rem 7rem;
+    margin-bottom: 2rem;
+    h1{
+        margin-bottom: 3rem;
+    }
+    .cards_container{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        gap: 60px 30px;
+        width: 100%;
+    }
+}
